@@ -8,6 +8,6 @@ namespace Core.DataAccess.Abstract
         void Delete(Tentity entity);
         void Update(Tentity entity);
         IEnumerable<Tentity> GetAll(Func<Tentity, bool>? filter = null);
-        Tentity Get(Func<Tentity, bool> filter);
+        Tentity? Get(Func<Tentity, bool> filter);
     }
 }
