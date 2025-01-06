@@ -1,0 +1,49 @@
+# Windows OS files
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET build results
+bin/
+obj/
+out/
+
+# User-specific files
+.idea/
+.vscode/
+.vs/
+
+# ASP.NET temp files
+aspnet_client/
+
+# ASP.NET Core environment-specific settings
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+
+# NUGET
+*.nupkg
+*.snupkg
+# NUGET cache
+~/.nuget/packages/
+
+# Windows Installer Files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
